@@ -1,6 +1,6 @@
 loadText = document.querySelector('.loading-text')
 
-load = 0
+load = 90
 
-loadText.innerText = 
+loadText.innerText = ${load}%
 

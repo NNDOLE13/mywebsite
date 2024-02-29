@@ -1,5 +1,5 @@
 btn = document.querySelector('.btn')
-search = odcument.querySelector('.search')
+search = document.querySelector('.search')
 
 
 btn.addEventListener('click', () => {

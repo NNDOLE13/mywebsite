@@ -4,12 +4,12 @@ body {
     height: 100vh;
     display: flex;
     align-items: center;
-    justify content: center;
+    justify-content: center;
     margin: 0;
 }
 
 .container {
-    width: 90vx
+    width: 90vw;
     display: flex;
-    
+
 }

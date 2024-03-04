@@ -29,6 +29,7 @@ body {
     flex: 0.5;
     margin: 10px;
     position: relative;
+    tansition: flex 1s ease-in;
 }
 
 .panel.active {
@@ -59,6 +60,6 @@ body {
     }
     .container{
         width: 100vw;
-        
+
     }
 }

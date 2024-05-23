@@ -47,7 +47,7 @@ h1 {
     font-size: 35px;
     z-index: 100;
     padding: 20px;
-    text-align: center:
+    text-align: center;
 }
 
 .btn1:hover {
@@ -66,6 +66,15 @@ h1 {
     position: absolute;
     top: 30px;
     left: 30px;
+}
+
+.rules li a {
+   color: orange;
+   text-decoration: none;
+   text-decoration: underline;
+   font-size: 20px;
+   right: 10px;
+   top: 10px;
 }
 
 .rules {
@@ -88,3 +97,5 @@ h1 {
 .btn1.active {
     opacity: 0.0;
 }
+
+
